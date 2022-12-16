@@ -1,8 +1,8 @@
-**visit dopedevelopers.com for more source codes***
+**Log on to codeastro.com for more projects!***
 
 **Database Name: attendancemsystem**
 
-**Developed by Danstan Aleko**
+**Developed by Sodiq Ahmed**
 
 **Recommended PHP Version 5.6 and Newer**
 
